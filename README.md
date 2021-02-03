@@ -38,7 +38,7 @@ def net_income(revenues: float, expenses: float, decimals=2) -> float:
 
 ```
 
-Next, you implement the accounting robot. The robot imports your accounting library to do the heavy number crunching:
+Next, you implement the accounting robot. You import the accounting library to do the heavy number crunching:
 
 `tasks.robot`:
 
