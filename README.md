@@ -26,7 +26,7 @@ def net_income(revenues: float, expenses: float, decimals=2) -> float:
     # Revenues are the sales or other positive cash inflow that comes into
     # your company. Expenses are the costs that are associated with making
     # sales. By subtracting your revenue from your expenses, you can calculate
-    # your net income. This is the money #that you have earned at the end of
+    # your net income. This is the money that you have earned at the end of
     # the day. It's possible that this number will be negative when your
     # business is in its nascent stage, so the goal is for your business' net
     # income to become positive, meaning your business is profitable.
@@ -156,6 +156,6 @@ Revenues of 100.20 and expenses of 462.12 should equal -361.92 net income
 Revenues of 200.0 and expenses of 200.0 should equal 0 net income
 ```
 
-The calculations work! And now you have a way to prove it. The tests assure that you can do modifications to the logic with the knowledge that the tests will warn you if you accidentally broke something! Such a piece of mind.
+The calculations work! And now you have a way to prove it. The tests assure that you can do modifications to the logic with the knowledge that the tests will warn you if you accidentally broke something! Such a peace of mind.
 
 You pat yourself on the back, close the lid of your laptop, pour a cup of your favorite beverage, and start surfing Reddit! It's great being an automation professional!
