@@ -159,3 +159,5 @@ Revenues of 200.0 and expenses of 200.0 should equal 0 net income
 The calculations work! And now you have a way to prove it. The tests assure that you can do modifications to the logic with the knowledge that the tests will warn you if you accidentally broke something! Such a peace of mind.
 
 You pat yourself on the back, close the lid of your laptop, pour a cup of your favorite beverage, and start surfing Reddit! It's great being an automation professional!
+
+> For more extensive real-life examples, see the [tests for Robot Framework Browser library](https://github.com/MarketSquare/robotframework-browser/tree/master/atest/test).
